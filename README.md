@@ -12,6 +12,14 @@
 - Create a Footer - daisyUI
 - 
 
+# Login Page
+- Used daisyUI to create component
+- created useState variables
+- Installed axios for API call - npm i axios
+- CORS - install cors in backend (npm i cors) => add middleware to eith configurations: orgin, credentials to true 
+- whenever you're making API call so pass axios => { withCredentials: true }
+- 
+
 
 # Routing Component
 - Body
